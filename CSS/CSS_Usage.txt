@@ -1,0 +1,13 @@
+1. Inline- NO! <div style="color:red">
+    1. Bad Practise
+    2. Styling each element differently
+    3. Not Efficient
+    4. Not Scalable
+
+2. Internal-Better! <style></style>
+    1.Can only be used in 1 file.
+    2.Makes file larger.
+
+3. External-Best! <link href="style.css">
+    1. Keeps style seperate from HTML.
+    2. Improved readability and reusability.
